@@ -12,7 +12,7 @@
 	["goldore"] 					 = {["name"] = "goldore", 			  	  		["label"] = "Gold Ore", 				["weight"] = 500, 		["type"] = "item", 		["image"] = "goldore.png", 				["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false, ["rare"] = false,   ["combinable"] = nil,   ["description"] = "Gold Ore"},
   ```
   
-  ## Preview 
+  ## Preview click the image below for video
   [![Watch the video](https://i.imgur.com/dxWPyRM.png)](https://streamable.com/dywg39)
   
   ## Credit to Mojito#4595
